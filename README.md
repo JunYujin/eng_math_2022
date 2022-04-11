@@ -1,3 +1,3 @@
 # eng_math_2022
-# git hub desktop
+# 0411_0523
 공업수학(2022)용
